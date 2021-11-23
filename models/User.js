@@ -1,5 +1,5 @@
 const { NativeError } = require('mongoose');
-const mongoose = require('monoose');
+const mongoose = require('mongoose');
 
 const userSchema = mongoose.Schema({
     name: {
